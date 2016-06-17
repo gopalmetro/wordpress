@@ -1,0 +1,20 @@
+/*
+ Theme Name:   WT - Twenty Fifteen Child
+ Theme URI:    http://www.kailasametro.com/wtproject/
+ Description:  WT Test Site by Gopal Metro
+ Author:       Gopal Metro
+ Author URI:   http://www.kailasametro.com/wtproject/
+ Template:     twentyfifteen
+ Version:      0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+
+.hentry.has-post-thumbnail{
+    padding-top: 8.3333%;
+}
+
+.portfolio.hentry.has-post-thumbnail {
+    padding-top: 5.3333%;
+}
